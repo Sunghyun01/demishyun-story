@@ -21,9 +21,15 @@
     "gatsby-source-filesystem": "^5.7.0",
     "gatsby-transformer-remark": "^6.7.0",
     "gatsby-transformer-sharp": "^5.7.0",
+    "or": "^0.2.0",
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
+  },
+  "resolutions": {
+    "react": "^18.2.0",
+    "@types/react": "^18.0.17",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "prettier": "^2.8.4"
