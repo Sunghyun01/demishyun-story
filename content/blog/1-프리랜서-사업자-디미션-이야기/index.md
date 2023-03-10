@@ -5,7 +5,7 @@ description: 채용 과정과 근무 형태
 ---
 > **:: 도비의 퇴사 그 이후의 계획**
 
-![퇴사 - Anonymous Artists](c0778c65-5056-4b0e-9fd2-52830267c656.jpeg "퇴사 - Anonymous Artists")
+![퇴사 - Anonymous Artists](c0778c65-5056-4b0e-9fd2-52830267c656.jpeg "퇴사 - Anonymous Artists"){: width="100" height="100"}
 
 고등학교 졸업 후 20년도 3월부터 정규직 계약을 하여 2년10개월간의 병역 특례를 마무리하고 첫 직장을 퇴사하였다.
 
@@ -15,7 +15,7 @@ description: 채용 과정과 근무 형태
 
 
 
-![비행기](https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg "비행기")
+![비행기](https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg "비행기"){: width="100" height="100"}
 
 원래 퇴사후에는 조금 쉴 계획이였다.
 
