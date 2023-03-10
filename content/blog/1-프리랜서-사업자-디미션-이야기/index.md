@@ -5,7 +5,7 @@ description: 채용 과정과 근무 형태
 ---
 > **:: 도비의 퇴사 그 이후의 계획**
 
-![퇴사 - Anonymous Artists](c0778c65-5056-4b0e-9fd2-52830267c656.jpeg "퇴사 - Anonymous Artists"){: width="100" height="100"}
+<img src="c0778c65-5056-4b0e-9fd2-52830267c656.jpeg" style="width:400px; height:400px" />
 
 고등학교 졸업 후 20년도 3월부터 정규직 계약을 하여 2년10개월간의 병역 특례를 마무리하고 첫 직장을 퇴사하였다.
 
@@ -14,8 +14,7 @@ description: 채용 과정과 근무 형태
 (전직장 퇴사에 관한 내용은 추후 작성하고싶으면 작성하기로...)
 
 
-
-![비행기](https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg "비행기"){: width="100" height="100"}
+<img src="https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg" style="width:900px; height:300px;"/>
 
 원래 퇴사후에는 조금 쉴 계획이였다.
 
@@ -29,7 +28,7 @@ description: 채용 과정과 근무 형태
 
 > **:: 이직할까?**
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0W_JUvHG7j5HyJDiKoKh3LCxTRjesGB-6Fg&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GqcQ0W_JUvHG7j5HyJDiKoKh3LCxTRjesGB-6Fg&usqp=CAU" style="width:900px; height:300px;"/>
 
 22년 12월 퇴사를 통보하였을때 사실 고민중이던 곳이 있었다.
 
@@ -63,7 +62,7 @@ IT 프리랜서로 근무하는 지인이 일하는 공기업 웹개발자 (프�
 
 > **:: 합격(?) 입니다.**
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFuVr_hyMZ5qNzcW8tmFo_y5Ut7zwgrwVVw&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFuVr_hyMZ5qNzcW8tmFo_y5Ut7zwgrwVVw&usqp=CAU" style="width:600px; height:300px;"/>
 
 위의 과정을 거쳐 A기업이 입찰을 하게 되었고 올해 나온 TO가 웹개발자 1자리가 나왔었다. (어캐됐누)
 
