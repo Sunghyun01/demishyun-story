@@ -25,7 +25,7 @@ description: 채용 과정과 근무 형태
 
 > **:: 이직할까?**
 
-<img src="https://img.theqoo.net/OtOgD" style="width:600px; height:300px;"/>
+<img src=“1c431a45-5ab1-4843-b014-a9117313764f.jpeg" style="width:600px; height:300px;"/>
 
 22년 12월 퇴사를 통보하였을때 사실 고민중이던 곳이 있었다.
 
