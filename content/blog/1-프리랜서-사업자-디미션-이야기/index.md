@@ -13,8 +13,7 @@ description: 채용 과정과 근무 형태
 
 (전직장 퇴사에 관한 내용은 추후 작성하고싶으면 작성하기로...)
 
-
-<img src="https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg" style="width:900px; height:300px;"/>
+<img src="https://cdn.pixabay.com/photo/2018/09/25/17/14/airplane-3702676_1280.jpg" style="width:600px; height:400px;"/>
 
 원래 퇴사후에는 조금 쉴 계획이였다.
 
@@ -24,19 +23,15 @@ description: 채용 과정과 근무 형태
 
 최대 3개월 정도 쉬고 이직을 하기로 계획하였다.
 
-
-
 > **:: 이직할까?**
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GqcQ0W_JUvHG7j5HyJDiKoKh3LCxTRjesGB-6Fg&usqp=CAU" style="width:900px; height:300px;"/>
+<img src="https://img.theqoo.net/OtOgD" style="width:600px; height:300px;"/>
 
 22년 12월 퇴사를 통보하였을때 사실 고민중이던 곳이 있었다.
 
 IT 프리랜서로 근무하는 지인이 일하는 공기업 웹개발자 (프리랜서) 자리가 남는데 올건지 나에게 물어봤다.
 
 물론 내가 가고싶다고 해서 그냥 들어가는것은 아니고 여러가지 과정이 있었다.
-
-
 
 과정은
 
@@ -57,8 +52,6 @@ IT 프리랜서로 근무하는 지인이 일하는 공기업 웹개발자 (프�
   (사실 소개로 들어온 경력직의 경우 별다른 문제가 없으면 계약한다고 한다.)
 
 사실 이런 과정들이 있어서 될 확률이 매우 낮다고 생각하고 편하게 마음놓고있었다
-
-
 
 > **:: 합격(?) 입니다.**
 
